@@ -1,0 +1,20 @@
+					-- MySQL Pizza Sales Project Questions --
+
+1- Retrieve Total number of orders 
+2- Calculate the total revenue generated from pizza sales
+3- Identify what size of pizza is being order most
+4- List Top 5 most ordered Pizzas (name) along with their quantity
+5- Find the Total Revenue generated per pizza category
+6- Distribute the orders of pizza on the basis of hours.
+   Change the hours into 12 hours clock with AM and PM except 24 hours clock
+7- Calculate the average orders and average generated revenue of pizza per day
+8- Calculate the percentage distribution of each pizza (name) to the total revenue
+9- Analyze the Cumulative sales over months
+10- Determine Top 3 most ordered pizza along with it's catgory and generated revenue
+11- Identify those dates where the placed orders exceed the average placed order_value
+12- Determine those Order_id's where the order was placed for more than 2 unique type of pizza.
+13- Find All those pizza name that whose revenue is below the Average Revenue but sold quantity exceding Average Quantity.
+14- Find Name of all those pizzas which have mushrooms as ingredient.
+
+
+						-- Enjoy The Question --
